@@ -1,0 +1,9 @@
+biopython
+pandas
+numpy
+matplotlib
+bokeh
+holoviews
+seaborn
+plotly
+jupyter
