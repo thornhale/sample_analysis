@@ -7,3 +7,4 @@ holoviews
 seaborn
 plotly
 jupyter
+openpxyl
